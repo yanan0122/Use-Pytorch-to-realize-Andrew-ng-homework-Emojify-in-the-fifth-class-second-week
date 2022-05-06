@@ -17,7 +17,11 @@ Try the model by change the *s* in function *predict*! **By the way, the length 
 *Try like this:  
 s = "I am so hungery"  
 you will get:  
-I am so hungry🍴*  
+I am so hungry🍴  
+
+s = "love you so much"
+you will get:  
+love you so much❤️* 
   
 Feel Free to change my code and share with us! I will be glad if you contact me to talk about this!  
 Besides, I keep the best weight during my trian. If you want, email me and I will give you that.  
