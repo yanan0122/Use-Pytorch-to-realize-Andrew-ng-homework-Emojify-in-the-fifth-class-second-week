@@ -19,7 +19,7 @@ s = "I am so hungery"
 you will get:  
 I am so hungry🍴  
 
-s = "love you so much"
+s = "love you so much"  
 you will get:  
 love you so much❤️* 
   
