@@ -23,6 +23,6 @@ Feel Free to change my code and share with us! I will be glad if you contact me 
 Besides, I keep the best weight during my trian. If you want, email me and I will give you that.  
 
 ## Hello guys!This is a simple self-introduction
-I am a Chinese boy in sophomore year and just a freshman in AI and deep learing. My code may have  a lot of problem. I am glad to recevie your email to talk about the code and other interesting thing in deep learning. If you have some question about my code, feel free to email me. I will try my best to help you.
+I am a Chinese boy in sophomore year and just a freshman in AI and deep learing. My code may have  a lot of problem. I am glad to recevie your email to talk about the code and other interesting thing in deep learning. If you have some question about my code, feel free to email me. I will try my best to help you.  
 **This is my emall: 328375886@qq.com**
 
