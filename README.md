@@ -1,5 +1,5 @@
 # Use-Pytorch-to-realize-Andrew-ng-homework-Emojify-in-the-fifth-class-second-week
-Add an approprate emoji to your sentence automatically by LSTM, realized by pytorch
+Add an appropriate emoji to your sentence automatically by LSTM, realized by pytorch
 
 ## Project Introduction
 Inspired by Andrew's homework Emojify, I hope to realize the model by myself by pytorch. 
@@ -15,7 +15,7 @@ But every time I got different accuracy even if with the same epoch. That's reas
 Try the model by change the *s* in function *predict*! **By the way, the length of your sentence should be shorter than 10.**
   
 *Try like this:  
-s = "I am so hungery"  
+s = "I am so hungry"  
 you will get:  
 I am so hungry🍴  
 
@@ -24,9 +24,8 @@ you will get:
 love you so much❤️* 
   
 Feel Free to change my code and share with us! I will be glad if you contact me to talk about this!  
-Besides, I keep the best weight during my trian. If you want, email me and I will give you that.  
+Besides, I keep the best weight during my train. If you want, email me and I will give you that.  
 
 ## Hello guys!This is a simple self-introduction
-I am a Chinese boy in sophomore year and just a freshman in AI and deep learing. My code may have  a lot of problem. I am glad to recevie your email to talk about the code and other interesting thing in deep learning. If you have some question about my code, feel free to email me. I will try my best to help you.  
-**This is my emall: 328375886@qq.com**
-
+I am a Chinese boy in sophomore year and just a freshman in AI and deep leaning. My code may have  a lot of problem. I am glad to receive your email to talk about the code and other interesting thing in deep learning. If you have some question about my code, feel free to email me. I will try my best to help you.  
+**This is my email: 328375886@qq.com**
