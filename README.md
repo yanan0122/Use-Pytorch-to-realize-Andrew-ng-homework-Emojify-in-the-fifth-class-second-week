@@ -3,7 +3,7 @@ Add an appropriate emoji to your sentence automatically by LSTM, realized by pyt
 
 ## Project Introduction
 Inspired by Andrew's homework Emojify, I hope to realize the model by myself by pytorch. 
-This project uses LSTM to realize ENN. The embedding layer's weight, train dataset and test dataset is provided by Andrew's homework. 
+This project uses LSTM to realize RNN. The embedding layer's weight, train dataset and test dataset is provided by Andrew's homework. 
 Because the train dataset is small, so I do not update the embedding layer's weight in my training process.  
 I got some pretty good result when epoch = 60000. The accuracy with different epochs is like this:    
   
